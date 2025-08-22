@@ -1,3 +1,8 @@
 This is file1 in feature-branch
+<<<<<<< HEAD
 this is exp2
 File1 in main
+=======
+this is Exp2
+DevOps lab
+>>>>>>> feature-branch
